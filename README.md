@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarkar71
 - 👀 I’m interested in Competitive Programming, Web Development and Data Science
-- 🌱 I’m currently learning Web Development, Models for ML, DSA for Programming
+- 🌱 I’m currently learning Web Development, Models for ML, DSA for Programming, Blockchain Technology for Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
